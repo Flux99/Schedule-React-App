@@ -1,6 +1,6 @@
 # Simple Schedule App 
 
-### This app is built using React. I build this app to brush up my **React** skills (**Hooks**) and also something to keep up with my schedule :smiley: 
+##### This app is built using React. I build this app to brush up my **React** skills (**Hooks**) and also something to keep up with my schedule :smiley: 
 
 ## How to run the app
 
