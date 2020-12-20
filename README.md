@@ -26,4 +26,4 @@
 
 ## What the app looks like
 
-![alt text](https://github.com/Flux99/OTP-and-Confirmation-Sms-Using-Twilio/blob/master/Screenshot/Screenshot_1.png?raw=true)
+![alt text](https://github.com/Flux99/Schedule-React-App/blob/master/Screenshot/Screenshot.png?raw=true)
