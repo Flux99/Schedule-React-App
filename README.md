@@ -2,6 +2,8 @@
 
 ##### This app is built using React. I build this app to brush up my **React** skills (**Hooks**) and also something to keep up with my schedule :smiley: 
 
+Deployed link: https://app-my-schedule.herokuapp.com/
+
 ## How to run the app
 
 1.  Now either fork or download the app and open the folder in the cli
